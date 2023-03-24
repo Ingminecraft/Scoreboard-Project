@@ -12,7 +12,7 @@ $quarter=$_POST['quarter'];
 $endSport=$_POST['endSport'];
 
 
-$servername = "192.168.235.247";
+$servername = "192.168.235.157";
 $username = "root";
 $password = "";
 $database = "scoreboard_project";
